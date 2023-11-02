@@ -11,4 +11,4 @@
 
 
 ## Juicy Stats 🧃
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoPrint3D&langs_count=20&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoPrint3D&langs_count=16&theme=dracula)
