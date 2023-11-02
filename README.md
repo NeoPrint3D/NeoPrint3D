@@ -2,6 +2,9 @@
 
 ## Useful links
 
+- Personal Site: https://dronsman.com
+- Web Dev Agency: https://neoprint3d.dev
+- Blog: https://dronsman.com/blog
 
 ## Cool Projects 🧊
 
